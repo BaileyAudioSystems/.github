@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.baileyaudio.co.uk/assets/img/logo.png"/>
 </p>
-<p style="font-family: Economica !important; font-size: large;" align="center">
+<p style="font-family: Economica !important; font-size: 32px;" align="center">
   Bailey Audio Systems Ltd
 </p>
 
